@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/revealjs/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/mermaid/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/mathjax/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/github-pages-and-github-actions/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/emoji-support/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rich-content/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/markdown-syntax/</loc>
+    <lastmod>2020-10-23T05:30:18-07:00</lastmod>
+  </url>
+  
+</urlset>
