@@ -1,0 +1,27 @@
+[submodule "themes/github.com/peaceiris/hugo-theme-iris"]
+	path = themes/github.com/peaceiris/hugo-theme-iris
+	url = https://github.com/peaceiris/hugo-theme-iris.git
+[submodule "themes/github.com/peaceiris/hugo-mod-mathjax"]
+	path = themes/github.com/peaceiris/hugo-mod-mathjax
+	url = https://github.com/peaceiris/hugo-mod-mathjax.git
+[submodule "themes/github.com/mathjax/MathJax"]
+	path = themes/github.com/mathjax/MathJax
+	url = https://github.com/mathjax/MathJax.git
+[submodule "themes/github.com/peaceiris/hugo-mod-mermaidjs"]
+	path = themes/github.com/peaceiris/hugo-mod-mermaidjs
+	url = https://github.com/peaceiris/hugo-mod-mermaidjs.git
+[submodule "themes/github.com/mermaid-js/mermaid"]
+	path = themes/github.com/mermaid-js/mermaid
+	url = https://github.com/mermaid-js/mermaid.git
+[submodule "themes/github.com/peaceiris/hugo-mod-revealjs"]
+	path = themes/github.com/peaceiris/hugo-mod-revealjs
+	url = https://github.com/peaceiris/hugo-mod-revealjs.git
+[submodule "themes/github.com/peaceiris/hugo-mod-bulma"]
+	path = themes/github.com/peaceiris/hugo-mod-bulma
+	url = https://github.com/peaceiris/hugo-mod-bulma.git
+[submodule "themes/github.com/jgthms/bulma"]
+	path = themes/github.com/jgthms/bulma
+	url = https://github.com/jgthms/bulma.git
+[submodule "themes/github.com/hakimel/reveal.js"]
+	path = themes/github.com/hakimel/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
