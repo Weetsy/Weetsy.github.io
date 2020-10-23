@@ -1,5 +1,7 @@
 baseURL: "https://example.com"
 
+publishDir: docs
+
 module:
   imports:
     - path: github.com/peaceiris/hugo-theme-iris
